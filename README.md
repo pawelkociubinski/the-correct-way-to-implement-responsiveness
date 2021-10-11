@@ -1,4 +1,4 @@
-IMHO the best way how to implement responsiveness
+IMHO it's the best way how to implement responsiveness
 
 how to use:
 ```
