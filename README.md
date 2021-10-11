@@ -1,8 +1,9 @@
 IMHO it's the best way how to implement responsiveness
 
 how to use:
-```
+```typescript
 import styled from "styled-components"
+import { media } from "../path-to-media"
 
 export const Box = styled.div`
 	color: #393939;
@@ -17,7 +18,7 @@ export const Box = styled.div`
 
 
 code:
-```
+```typescript
 // IPAD     : 768x1024  // 1024x768
 // IPAD PRO : 1024x1366 // 1366x1024
 export const breakpoints = {
